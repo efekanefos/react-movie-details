@@ -1,0 +1,285 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+
+#cardImg {
+    width: 15.8rem;
+    height: 22rem;
+    background: cover;
+}
+
+#card {
+    width: 15.9rem;
+    background-color: rgb(12, 2, 19);
+}
+
+#cardBody {
+    background-color: rgb(27, 4, 44);
+}
+
+#cardtitle {
+    font-family: "Bangers", cursive;
+}
+
+#cardparag {
+    width: 13rem;
+    text-align: justify;
+    font-family: "Bangers", cursive;
+}
+
+#main {
+    overflow-x: hidden;
+}
+
+#backg {
+    background-color: rgb(12, 2, 19);
+}
+
+#navId {
+    background: rgba(12, 2, 19, 0.9);
+    font-family: "Bangers", cursive;
+}
+
+@media screen and (max-width: 1200px) {
+    #cardImg {
+        width: 15.84rem;
+        height: 22rem;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    #cardImg {
+        width: 15.85rem;
+        height: 22rem;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #cardImg {
+        width: 15.8rem;
+        height: 22rem;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    #card {
+        width: 15rem;
+    }
+
+    #cardImg {
+        width: 14.9rem;
+        height: 22rem;
+    }
+}
+
+#homeTitle {
+    font-size: 4.5rem;
+    padding-top: 8rem;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    padding-bottom: 2.3rem;
+}
+
+#homeback {
+    background-color: rgb(12, 2, 19);
+    font-family: "Bangers", cursive;
+}
+
+@media screen and (max-width: 375px) {
+    #homeTitle {
+        font-size: 4.5rem;
+        padding-top: 6rem;
+        text-decoration: underline;
+    }
+}
+
+#contactback {
+    background-color: rgb(12, 2, 19);
+    height: 100vh;
+    font-family: "Bangers", cursive;
+    overflow: hidden;
+}
+
+#contactTitle {
+    font-size: 3rem;
+    padding-top: 4rem;
+    text-decoration: underline;
+}
+
+#myPic {
+    width: 12rem;
+    border-radius: 50%;
+}
+
+#social {
+    list-style: none;
+    font-size: 2.5rem;
+}
+
+#linked {
+    color: #007bb6;
+}
+
+#insta {
+    color: #c32aa3;
+}
+
+#twitter {
+    color: #00aced;
+}
+
+#linked:hover {
+    color: #015e8a;
+}
+
+#insta:hover {
+    color: #9e2283;
+}
+
+#twitter:hover {
+    color: #0192c7;
+}
+
+#aboutback {
+    background-color: rgb(12, 2, 19);
+    height: 100vh;
+    font-family: "Bangers", cursive;
+    overflow: hidden;
+}
+
+#aboutTitle {
+    font-size: 3rem;
+    padding-top: 4rem;
+    text-decoration: underline;
+    letter-spacing: 0.15rem;
+}
+
+#tech {
+    text-decoration: underline;
+    letter-spacing: 0.15rem;
+}
+
+#aboutWebsite {
+    font-size: 0.9rem;
+    text-align: justify;
+}
+
+#search {
+    width: 50rem;
+    margin: 0 auto;
+    font-family: "Bangers", cursive;
+}
+
+#searchbtn {
+    display: block;
+    width: 10rem;
+    margin: 0 auto;
+    font-family: "Bangers", cursive;
+}
+
+#readmore {
+    font-family: "Bangers", cursive;
+}
+
+#moviepagetitle {
+    font-family: "Bangers", cursive;
+}
+
+#detailback {
+    background-color: rgb(12, 2, 19);
+    height: 120vh;
+    font-family: "Bangers", cursive;
+}
+
+@media screen and (max-width: 375px) {
+    #detailback {
+        height: 140vh;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    #aboutback {
+        height: 140vh;
+    }
+}
+
+#gifs {
+    width: 30rem;
+    height: 13rem;
+}
+
+#bread {
+    background: #1b042c;
+}
+
+#aftersearchb {
+    background-color: rgb(12, 2, 19);
+    font-family: "Bangers", cursive;
+    overflow: hidden;
+    height: 36rem;
+}
+
+#searchlist {
+    background: #1b042c;
+    border-bottom: 1px solid black;
+    color: red;
+    height: 3rem;
+}
+
+#aftersearchtop {
+    background-color: rgb(12, 2, 19);
+    padding-top: 5rem;
+}
+
+#aftersearchbutton {
+    background-color: rgb(12, 2, 19);
+}
+
+#carditems {
+    margin-top: -480px;
+}
+
+#notfBack {
+    background-color: rgb(12, 2, 19);
+    height: 100vh;
+    font-family: "Bangers", cursive;
+    overflow: hidden;
+}
+
+#notfBack h1 {
+    padding-top: 13rem;
+    font-size: 7rem;
+}
+
+#notfBack h5 {
+    font-size: 2rem;
+}
+
+#gotoMovie {
+    background-color: #3c1874;
+    width: 12rem;
+    height: 3rem;
+    padding: 0.75rem;
+}
+
+#gotoMovie:hover {
+    background-color: rgb(46, 18, 90);
+}
+
+#boot {
+    color: #432f63;
+    font-size: 3.5rem;
+}
+
+#react {
+    color: #5ed3f3;
+    font-size: 3.5rem;
+}
+
+#css {
+    color: #28a4d8;
+    font-size: 3.5rem;
+}
+
+#html {
+    color: #e96326;
+    font-size: 3.5rem;
+}

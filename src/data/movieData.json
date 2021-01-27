@@ -1,0 +1,76 @@
+{
+    "moviedata": [{
+            "id": 1,
+            "imgsrc": "https://sixactstructure.com/wp-content/uploads/2016/11/iron_man_ver3.jpg",
+            "title": "Iron-Man",
+            "description": "Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics...",
+            "detailimg": "https://miro.medium.com/max/840/1*TWCf0BXGY7bRvmCCBusqtw.gif",
+            "longDescription": "Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics. The character was co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby. The character made his first appearance in Tales of Suspense #39 (cover dated March 1963), and received his own title in Iron Man #1 (May 1968). Also in 1963, the character founded the Avengers alongside Thor, Ant-Man, Wasp and the Hulk.A wealthy American business magnate, playboy, philanthropist, inventor and ingenious scientist, Anthony Edward Tony Stark suffers a severe chest injury during a kidnapping. ",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "imgsrc": "https://i.pinimg.com/originals/fe/04/04/fe0404f0fc125a32d7a6ce975f7ad3a6.jpg",
+            "title": "Iron-Man-2",
+            "description": "Iron Man 2 is a 2010 American superhero film based on the Marvel Comics character Iron Man.",
+            "detailimg": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f91849b-a926-430a-b0eb-3ab6ad5978ca/d53jht4-0d5c2f55-9bf3-4175-9a55-38e78a3c59bd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWY5MTg0OWItYTkyNi00MzBhLWIwZWItM2FiNmFkNTk3OGNhXC9kNTNqaHQ0LTBkNWMyZjU1LTliZjMtNDE3NS05YTU1LTM4ZTc4YTNjNTliZC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.NApiOmk7Ak1XVNfjxl4Hri6w6zZVOCwxQTmxzfO_XC8",
+            "longDescription": "Iron Man 2 is a 2010 American superhero film based on the Marvel Comics character Iron Man. Produced by Marvel Studios and distributed by Paramount Pictures,[N 1] it is the sequel to Iron Man (2008) and the third film in the Marvel Cinematic Universe (MCU). Directed by Jon Favreau and written by Justin Theroux, the film stars Robert Downey Jr. as Tony Stark / Iron Man alongside Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Mickey Rourke, and Samuel L. Jackson. Six months after Iron Man, Tony Stark resists calls from the United States government to hand over the Iron Man technology, which is causing his declining health.",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "imgsrc": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg",
+            "title": "Iron-Man-3",
+            "description": "Iron Man 3 is a 2013 American superhero film based on the Marvel Comics character Iron Man...",
+            "detailimg": "https://i.pinimg.com/originals/7b/5f/31/7b5f313a2d9497a7cdef4208bb70d032.gif",
+            "longDescription": "Iron Man 3 is a 2013 American superhero film based on the Marvel Comics character Iron Man, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures.[N 1] It is the sequel to Iron Man (2008) and Iron Man 2 (2010), and the seventh film in the Marvel Cinematic Universe (MCU). The film was directed by Shane Black from a screenplay he co-wrote with Drew Pearce, and stars Robert Downey Jr. as Tony Stark / Iron Man alongside Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stéphanie Szostak, James Badge Dale, Jon Favreau, and Ben Kingsley.",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "imgsrc": "https://i.pinimg.com/originals/6b/03/a7/6b03a707147d21f639b1782a4bccb82b.jpg",
+            "title": "Spider-Man",
+            "description": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko.",
+            "detailimg": "https://68.media.tumblr.com/d51b876e54dfeba59ed8118bbf2d69a2/tumblr_oojfl2sAkm1rrkahjo4_540.gif",
+            "longDescription": "Spider-Man is a 2002 American superhero film based on the Marvel Comics character of the same name. Directed by Sam Raimi from a screenplay by David Koepp, it is the first installment in the Spider-Man trilogy, and stars Tobey Maguire as the title character, alongside Willem Dafoe, Kirsten Dunst, James Franco, Cliff Robertson, and Rosemary Harris. The film centers on outcast teen genius Peter Parker, who develops spider-like superhuman abilities known as Spider-Man, after being bitten by a genetically-altered spider.",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "imgsrc": "https://static.wikia.nocookie.net/spiderman-films/images/3/3d/Spider-Man_2_%282004%29.jpg/revision/latest?cb=20160105133908",
+            "title": "Spider-Man-2",
+            "description": "Spider-Man 2 is a 2004 American superhero film directed by Sam Raimi and written by Alvin Sargent from a story by Alfred Gough,",
+            "detailimg": "https://media1.tenor.com/images/abe45a23c7b48478bb07dbe5a4409185/tenor.gif?itemid=14276145",
+            "longDescription": "Spider-Man 2 is a 2004 American superhero film directed by Sam Raimi and written by Alvin Sargent from a story by Alfred Gough, Miles Millar and Michael Chabon. Based on the fictional Marvel Comics character of the same name, it is the second installment in the Spider-Man trilogy and the sequel to Spider-Man (2002), starring Tobey Maguire alongside Kirsten Dunst, James Franco, Alfred Molina, Rosemary Harris, and Donna Murphy. Set two years after the events of Spider-Man, the film finds Peter Parker struggling to manage both his personal life and his duties as Spider-Man, which affects his civilian life dramatically. ",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "imgsrc": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+            "title": "Spider-Man-3",
+            "description": "Spider-Man 3 is a 2007 American superhero film based on the Marvel Comics character Spider-Man. It was directed by Sam Raimi",
+            "detailimg": "https://i.makeagif.com/media/2-05-2017/RHbeKG.gif",
+            "longDescription": "Spider-Man 3 is a 2007 American superhero film based on the Marvel Comics character Spider-Man. It was directed by Sam Raimi from a screenplay by Raimi, his older brother Ivan and Alvin Sargent. It is the final installment in Raimi's Spider-Man trilogy. The film stars Tobey Maguire as Peter Parker / Spider-Man, alongside Kirsten Dunst, James Franco, Thomas Haden Church, Topher Grace, Bryce Dallas Howard, James Cromwell, Rosemary Harris, and J. K. Simmons.",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "imgsrc": "https://i.pinimg.com/originals/94/9f/69/949f699f948d63fc9ee91af6fd7363ea.jpg",
+            "title": "Ghost Rider",
+            "description": "Ghost Rider is a 2007 American superhero film[2] based on the Marvel Comics character of the same name.",
+            "detailimg": "https://media1.tenor.com/images/5a90341f271a95314e9ce1e0c49f46b7/tenor.gif?itemid=13530991",
+            "longDescription": "Ghost Rider is a 2007 American superhero film based on the Marvel Comics character of the same name. The film was written and directed by Mark Steven Johnson, and stars Nicolas Cage as Johnny Blaze / Ghost Rider, with Eva Mendes, Wes Bentley, Sam Elliott, Donal Logue, Matt Long, and Peter Fonda in supporting roles.Ghost Rider was released on February 16, 2007 in the United States. The film was met with negative reviews from critics, but was a box office success, earning $228.7 million worldwide on a $110 million budget. Ghost Rider was released on DVD, Blu-ray and UMD on June 12, 2007.",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "imgsrc": "https://i.pinimg.com/originals/63/db/5c/63db5c0f50f06968df6e3c41ce94759b.jpg",
+            "title": "Dr. Strange",
+            "description": "Doctor Strange is a 2016 American superhero film based on the Marvel Comics character of the same name.",
+            "detailimg": "https://1.bp.blogspot.com/-7lkFfTgkIQg/WCDr2WDCkRI/AAAAAAAACJM/O7k_m98YCdg0-ueIh0TE5-tdrFYfLh-RACLcB/s1600/tumblr_o5k23v4Qan1r7rm1so4_500.gif",
+            "longDescription": "Doctor Strange is a 2016 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 14th film in the Marvel Cinematic Universe (MCU). The film was directed by Scott Derrickson from a screenplay he wrote with Jon Spaihts and C. Robert Cargill, and stars Benedict Cumberbatch as surgeon Stephen Strange along with Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Michael Stuhlbarg, Benjamin Bratt, Scott Adkins, Mads Mikkelsen, and Tilda Swinton. In the film, Strange learns the mystic arts after a career-ending car crash.",
+            "isActive": true
+        }
+
+    ]
+}
